@@ -1,3 +1,9 @@
 npm install -g create-react-app
 
 create-react-app huntweb
+
+npm start
+
+yarn add axios
+
+yarn add react-router-dom
